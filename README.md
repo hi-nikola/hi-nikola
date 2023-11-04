@@ -3,7 +3,7 @@ Welcome to my github!🌻
 
 - 😃I'm a data engineer and I engage in data analysis and data governance .
 
-- 📖I'm currently learning LLM.
+- 📖I'm currently learning ML.
 
 - ❤️I think English and programming are the most useful and interesting tools I have leaned . 
 
